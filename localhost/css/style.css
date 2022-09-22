@@ -1,3 +1,6 @@
-.wrapper {
-    
+
+.user {
+    border: 1px;
+    border-color: aqua;
+    border-style: inset;
 }
